@@ -1,4 +1,4 @@
 def hello(n):
     for _ in range(n):
-        print('Hello World')
-hello(5)
+        print('Hello new World')
+hello(4)
